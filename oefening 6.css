@@ -1,0 +1,38 @@
+body{
+    font-family: Verdana, sans-serif;
+    color: #d9ddd7;
+}
+
+body{
+    background-color: rgb(230, 44, 44);
+}
+.video {
+    margin: 0 auto;
+    border: 20px groove #1c4024;
+}
+a:hover {
+    color: #0c0c0d;
+    text-decoration: underline;
+    font-size: larger;
+
+}
+
+a:link {
+    color: #102314;
+    text-decoration: none;
+}
+.button {
+    border: 4px solid black;
+    border-radius: 8px;
+    color: #0c0c0d;
+    text-align: center;
+}
+#pukkelpop{
+    border: solid red 2px;
+    width: 35%;
+    background-color: cornflowerblue;
+    margin-bottom: 8px;
+    padding-bottom: 4px;
+    padding-left: 4px;
+}
+

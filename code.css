@@ -1,0 +1,43 @@
+
+span {
+    display: block;
+}
+body {
+    background-color: #d9ddd7;
+}
+p    {
+    font-family: Verdana, Arial, Geneva, sans-serif;
+}
+h1{
+    color:#2fb32b
+}
+p   {
+    background: #6a7689
+}
+p {
+    color: white;
+    padding: 20px;
+}
+p.highlight {
+    color: yellow;
+    border-style: solid;
+    margin-right: 20%;
+    margin-left: 20%;
+    text-align: center;
+
+}
+
+a:link {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+a:hover {
+    color: #0000FF;
+    text-decoration: underline;
+}
+
+
+
+
+
+

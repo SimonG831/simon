@@ -1,0 +1,20 @@
+
+span {
+    display: block;
+}
+body {
+    background-color: #d9ddd7;
+}
+p    {
+    font-family: Verdana, Arial, Geneva, sans-serif;
+}
+h1{
+    color:#2fb32b
+}
+p   {
+    background: #6a7689
+}
+p {
+    color: white;
+    padding: 20px;
+}
